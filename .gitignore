@@ -1,0 +1,7 @@
+*.o
+*.elf
+*.pbp
+*.prx
+*.sfo
+*.bat
+*.xml
