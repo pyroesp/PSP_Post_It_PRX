@@ -5,3 +5,4 @@
 *.sfo
 *.bat
 *.xml
+exports.c
